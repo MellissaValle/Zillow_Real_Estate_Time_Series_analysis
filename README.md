@@ -20,7 +20,9 @@
 
 ## Project Overview
 
-Our goal with this project is to use predictive time series modelling on Zillow home sale price data to determine which 5 zipcodes are the best choice for real estate investment. 
+Our goal with this project is to use predictive time series modelling on Zillow home sale price data to determine which 5 metro areas in New York State are the most optimal for short term real estate investment. The metric we decided to use for this project is ROI, as we feel that using ROI (over things like net profit) better incorporates risk as a factor. While of course profitability is essential to the company utilizing this data, ROI serves as a guide towards the best investment opportunities, and specific dollar amount profit targets can be met by adjusting the amount of money initially invested. 
+
+Our data comes from Zillow, courtesy of their public research data page, which we link to below. The raw dataset has information on over 900 metro areas across the US. For each of these cities, 
 
 ## Data Science Process
 
