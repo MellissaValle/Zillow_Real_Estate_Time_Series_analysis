@@ -4,6 +4,10 @@
 
 ## Repo Structure
 
+Main Analysis Notebook - Record of our Data Science process
+
+Facebook Prophet Notebook - Additional EDA and modeling process using Facebook Prophet
+
 
 ## Project Overview
 
