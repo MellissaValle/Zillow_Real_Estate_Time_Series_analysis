@@ -1,19 +1,6 @@
 # Zillow Real Estate Data Time Series Analysis 
 ![house image](https://photos.zillowstatic.com/fp/04c06dbff7b83e156bd68e7dd1a0171f-cc_ft_960.jpg)
 
- 
-## Table of Contents
-
-* [Repo Structure](#repo-structure)
-* [Project Overview](#project-overview)
-* [Data Science Process](#data-science-process)
-  * [Exploratory Data Analysis](#exploratory-data-analysis)
-  * [Data Preparation](#data-preparation)
-  * [Modeling](#modeling)
-  * [Model Results](#model-results)
-* [Conclusions](#conclusions)
-* [Navigating the Repository](#navigating-the-repository)
-
 
 ## Repo Structure
 
