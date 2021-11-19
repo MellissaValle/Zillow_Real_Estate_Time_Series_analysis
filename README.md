@@ -8,6 +8,8 @@ Main Analysis Notebook - Record of our Data Science process
 
 Facebook Prophet Notebook - Additional EDA and modeling process using Facebook Prophet
 
+Images - Relevant visualizaitons
+
 
 ## Project Overview
 
@@ -20,6 +22,8 @@ This project culminates in a recommendation of which 5 New York State metro area
 ### 1. Exploratory Data Analysis
 
 During EDA, we noticed that the dataset as provided by Zillow comes in "wide format" and for our time series models to run, we had to convert it to "long format". Luckily a function to do this was provided to us along with the dataset. We graphed the distribution of the values for just NY State, and found NYC to be an obvious outlier. We also plotted a time series for all of New York State to get an idea of the overall trend. 
+
+![](Images/NY%20State%20Home%20Prices.png)
 
 ### 2. Data Preparation
 
