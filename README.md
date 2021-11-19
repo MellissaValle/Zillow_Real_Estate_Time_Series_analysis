@@ -40,11 +40,11 @@ In this step we also reformatted our dataframe from wide format, to long format 
 
 Because each of the 26 cities required their own model, which had to be gridsearched, fit, and used to generate predictions, we wrote custom functions to streamline the process. These functions ran auto_arima, a gridsearching function, fit an ARIMA model with the optimal parameters, and made predictions using the fit models. 
 
-We also wrote seperate prediction functions for model validation, and for visualizing the predictions. 
+We also wrote separate prediction functions for model validation, and for visualizing the predictions. 
 
 ### 4. Model Results
 
-Our models trained on data from 2012 - 2019 and tested on data from 2019 - 2021 far outperformed an EDA based approach on the same time periods, tellign us that modeling was well worth the effort. The EDA based technique for selecting which 5 cities to invest in gave us an ROI of 17.7%, where the model based approach resulted in an ROI of 29.5%, a massive increase. Our models were also only 13% off from the true final values for the test time period. 
+Our models trained on data from 2012 - 2019 and tested on data from 2019 - 2021 far outperformed an EDA based approach on the same time periods, telling us that modeling was well worth the effort. The EDA based technique for selecting which 5 cities to invest in gave us an ROI of 17.7%, where the model based approach resulted in an ROI of 29.5%, a massive increase. Our models were also only 13% off from the true final values for the test time period. 
 
 ## Conclusions
 
