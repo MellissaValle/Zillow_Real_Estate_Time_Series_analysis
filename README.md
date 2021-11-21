@@ -1,6 +1,14 @@
 # Zillow Real Estate Data Time Series Analysis 
 ![house image](https://photos.zillowstatic.com/fp/04c06dbff7b83e156bd68e7dd1a0171f-cc_ft_960.jpg)
 
+## Table of Contents
+
+* [Repo Structure](#repo-structure)
+* [Project Overview](#project-overview)
+* [Data Science Process](#data-science-process)
+* [Conclusions](#conclusions)
+*[Resources](#resources)
+* [Navigating the Repository](#navigating-the-repository)
 
 ## Repo Structure
 
@@ -62,6 +70,16 @@ Our Slide Deck on these Findings - https://www.canva.com/design/DAEv_ki9q1c/D8Ye
 
 Zillow Research Data - https://www.zillow.com/research/data/
 
+## Navigating the Repository
 
+```
+├── notebooks
+│         ├──ARIMA Model
+│         └──Facebook Prophet
+├── images
+│         ├──image1.JPG
+└── README.md
+
+```
 
 
