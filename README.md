@@ -7,7 +7,7 @@
 * [Project Overview](#project-overview)
 * [Data Science Process](#data-science-process)
 * [Conclusions](#conclusions)
-*[Resources](#resources)
+* [Resources](#resources)
 * [Navigating the Repository](#navigating-the-repository)
 
 ## Repo Structure
